@@ -144,7 +144,7 @@
                   <OutArgument x:TypeArguments="x:String">[textImagine]</OutArgument>
                 </ui:GetOCRText.Text>
               </ui:GetOCRText>
-              <ui:LogMessage DisplayName="Log Message1w" sap:VirtualizedContainerService.HintSize="333.6,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[textImagine]" />
+              <ui:LogMessage DisplayName="Log Message1ws" sap:VirtualizedContainerService.HintSize="333.6,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[textImagine]" />
               <ui:CloseApplication DisplayName="Close Application" sap:VirtualizedContainerService.HintSize="333.6,68.8" sap2010:WorkflowViewState.IdRef="CloseApplication_2">
                 <ui:CloseApplication.Target>
                   <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="7b94a93e-dbe0-4829-a2cd-0afc7a6906a2">
